@@ -1,19 +1,13 @@
 <!---
-
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
-
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
 ## How it works
 
-Explain how your project works
+It shows the numbers from 1 to 9 using a Display of 7 leds, you use 4 switches as inputs.
 
 ## How to test
 
-Explain how to use your project
+Memorize the numbers 1 to 9 in binary code, then use the switches
 
 ## External hardware
 
